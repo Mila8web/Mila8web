@@ -1,8 +1,6 @@
-
-![note (1)](https://github.com/Mila8web/Mila8web/assets/77016618/a3dc27c5-e638-43cc-b6ab-05a26a845660)
-
-
-Hi! 👋 
+![web-developer](https://github.com/Mila8web/Mila8web/assets/77016618/1e4d0e36-e816-4e08-a5df-127300506409)
+Hi! 👋
+ 
 My name is Mila. 
 --------------------
 
