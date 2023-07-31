@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello! My name is Mila, and I am a web developer specializing in front-end development and creating attractive and functional user interfaces. 👋
+
+With a passion for crafting beautiful and responsive web pages, I have gained a deep understanding of HTML, CSS, and JavaScript. My mission is to create user-friendly and easily navigable interfaces that grab attention and provide a satisfying user experience.
+
+My experience includes working on a variety of projects, ranging from small landing pages and blogs to complex web applications. I confidently work with modern frameworks like Bootstrap and CSS preprocessors such as Sass to streamline and optimize my workflow. Moreover, I possess knowledge of cross-browser compatibility and accessibility to ensure that my projects perform reliably on different devices and are accessible to all users, including those with disabilities.
+
+I strive to stay up-to-date with the latest trends and technologies in the web development field. I actively take online courses, and read specialized articles and blogs.
+
+I am eagerly looking forward to contributing to exciting projects and collaborating with talented and creative individuals on GitHub. I am open to discussing potential collaborations and assisting in achieving your goals!
 
 <!--
 **Mila8web/Mila8web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
